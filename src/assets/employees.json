@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": "101",
+      "firstName": "Freddie",
+      "lastName": "Baker",
+      "gmail": "fbaker@gmail.com"
+    },
+    {
+      "id": "102",
+      "firstName": "Donna",
+      "lastName": "Autumn",
+      "gmail": "dautumn@yahoo.com"
+    },
+    {
+      "id": "103",
+      "firstName": "Johnny",
+      "lastName": "Bravo",
+      "gmail": "jbravo@gmail.com"
+    },
+    {
+      "id": "104",
+      "firstName": "Ivan",
+      "lastName": "Dayrit",
+      "gmail": "cpdayrit@student.hau.edu.ph"
+    }
+  ]
+}
